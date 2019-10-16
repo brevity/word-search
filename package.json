@@ -2,9 +2,9 @@
   "name": "wordfind",
   "version": "1.0.0",
   "description": "A port of Bill Scheidel's wordfind for node and npm",
-  "main": "wordfind.js",
+  "main": "index.js",
   "bin": {
-    "wordfind": "bin/run.js"
+    "wordfind": "./index.js"
   },
   "scripts": {
     "start": "node index.js",
