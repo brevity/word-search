@@ -1,0 +1,395 @@
+[
+    {
+        "word": "unheeded",
+        "synonyms": [
+            "discarded",
+            "disobeyed",
+            "ignored",
+            "neglected",
+            "overlooked",
+            "rejected",
+            "slighted",
+            "unconsidered",
+            "unnoted",
+            "unnoticed",
+            "unobserved"
+        ],
+        "antonyms": [
+            "considered",
+            "contemplated",
+            "heeded",
+            "noticed",
+            "regarded",
+            "thought-out"
+        ]
+    },
+    {
+        "word": "docudrama",
+        "synonyms": [
+            "documentary",
+            "documentary movie",
+            "docutainment",
+            "infotainment"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "jubilances",
+        "synonyms": [
+            "crowing",
+            "delight",
+            "elation",
+            "exultance",
+            "exultancy",
+            "glee",
+            "gloating",
+            "glory",
+            "happiness",
+            "high spirits",
+            "joy",
+            "joyousness",
+            "jubilation",
+            "merriment",
+            "rejoicing",
+            "satisfaction",
+            "transport",
+            "triumph"
+        ],
+        "antonyms": [
+            "depression",
+            "gloom",
+            "misery",
+            "pain",
+            "sadness",
+            "sorrow",
+            "unhappiness",
+            "woe"
+        ]
+    },
+    {
+        "word": "persuasivenesses",
+        "synonyms": [
+            "forcefulness",
+            "inducement",
+            "influence",
+            "power",
+            "strength"
+        ],
+        "antonyms": [
+            "impotence",
+            "incapacity",
+            "weakness"
+        ]
+    },
+    {
+        "word": "supererogative",
+        "synonyms": [
+            "capricious",
+            "changeable",
+            "devil-may-care",
+            "extravagant",
+            "fanciful",
+            "fickle",
+            "fitful",
+            "fluctuating",
+            "free",
+            "frivolous",
+            "gratuitous",
+            "heedless",
+            "hot and cold",
+            "immoderate",
+            "inconstant",
+            "intemperate",
+            "lavish",
+            "outrageous",
+            "prodigal",
+            "profuse",
+            "rash",
+            "reckless",
+            "spendthrift",
+            "spoiled",
+            "supererogatory",
+            "thriftless",
+            "uncalled-for",
+            "unfettered",
+            "unreserved",
+            "unrestrained",
+            "up and down",
+            "variable",
+            "volatile",
+            "wasteful",
+            "whimsical",
+            "wild"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "fronting",
+        "synonyms": [
+            "border",
+            "confront",
+            "cover",
+            "encounter",
+            "face",
+            "look over",
+            "meet",
+            "overlay",
+            "overlook"
+        ],
+        "antonyms": [
+            "avoid",
+            "retreat"
+        ]
+    },
+    {
+        "word": "pus",
+        "synonyms": [
+            "matter",
+            "maturation",
+            "purulence",
+            "purulency",
+            "pustule",
+            "sinus",
+            "suppuration"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "baleens",
+        "synonyms": [
+            "beluga",
+            "ceta",
+            "cetacean",
+            "cete",
+            "finback",
+            "grampus",
+            "mammal",
+            "narwhal",
+            "orc",
+            "orca",
+            "porpoise",
+            "rorqual",
+            "sei",
+            "whopper"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "tyranny",
+        "synonyms": [
+            "absolutism",
+            "authoritarianism",
+            "autocracy",
+            "coercion",
+            "cruelty",
+            "despotism",
+            "domination",
+            "fascism",
+            "high-handedness",
+            "imperiousness",
+            "monocracy",
+            "oligarchy",
+            "oppression",
+            "peremptoriness",
+            "reign of terror",
+            "severity",
+            "terrorism",
+            "totalitarianism",
+            "totality",
+            "unreasonableness"
+        ],
+        "antonyms": [
+            "democracy"
+        ]
+    },
+    {
+        "word": "geriatric",
+        "synonyms": [
+            "aged",
+            "along in years",
+            "ancient",
+            "broken down",
+            "debilitated",
+            "decrepit",
+            "elderly",
+            "enfeebled",
+            "exhausted",
+            "experienced",
+            "fossil",
+            "getting on",
+            "gray",
+            "gray-haired",
+            "grizzled",
+            "hoary",
+            "impaired",
+            "inactive",
+            "infirm",
+            "mature",
+            "matured",
+            "not young",
+            "olden",
+            "oldish",
+            "over the hill",
+            "seasoned",
+            "senile",
+            "senior",
+            "skilled",
+            "superannuated",
+            "tired",
+            "venerable",
+            "versed",
+            "veteran",
+            "wasted"
+        ],
+        "antonyms": [
+            "contemporary",
+            "current",
+            "fresh",
+            "green",
+            "inexperienced",
+            "late",
+            "modern",
+            "new",
+            "recent",
+            "up-to-date",
+            "young",
+            "youthful"
+        ]
+    },
+    {
+        "word": "cheaply",
+        "synonyms": [
+            "advantageously",
+            "at a bargain price",
+            "at a discount",
+            "at a reduced price",
+            "cheap",
+            "dirt cheap",
+            "discounted",
+            "inexpensively",
+            "moderately",
+            "on sale",
+            "poorly",
+            "reasonably",
+            "shabbily",
+            "shoddily"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "blended",
+        "synonyms": [
+            "amalgamate",
+            "cement",
+            "coalesce",
+            "combine",
+            "commingle",
+            "commix",
+            "compound",
+            "fuse",
+            "integrate",
+            "interblend",
+            "intermix",
+            "meld",
+            "merge",
+            "mingle",
+            "synthesize",
+            "unite",
+            "weld"
+        ],
+        "antonyms": [
+            "disconnect",
+            "disharmonize",
+            "disperse",
+            "divide",
+            "part",
+            "separate"
+        ]
+    },
+    {
+        "word": "abstentious",
+        "synonyms": [
+            "abstemious",
+            "abstinent",
+            "continent",
+            "moderate",
+            "restrained",
+            "self-restraining"
+        ],
+        "antonyms": [
+            "drunk",
+            "excessive",
+            "immoderate",
+            "inebriated",
+            "stormy",
+            "uncontrolled",
+            "violent"
+        ]
+    },
+    {
+        "word": "deary",
+        "synonyms": [
+            "alveolus",
+            "darling",
+            "dear",
+            "dearie",
+            "flattery",
+            "halvah",
+            "nectar",
+            "precious",
+            "sweet",
+            "sweetheart",
+            "sweetness"
+        ],
+        "antonyms": [
+            "enemy",
+            "foe"
+        ]
+    },
+    {
+        "word": "disfavors",
+        "synonyms": [
+            "aversion",
+            "disapprobation",
+            "disapproval",
+            "discredit",
+            "disesteem",
+            "dishonor",
+            "disinclination",
+            "displeasure",
+            "disregard",
+            "disrepute",
+            "disrespect",
+            "dissatisfaction",
+            "distaste",
+            "distrust",
+            "doghouse",
+            "indisposition",
+            "mistrust",
+            "shame",
+            "thumbs down",
+            "unpopularity"
+        ],
+        "antonyms": [
+            "approval",
+            "belief",
+            "certainty",
+            "confidence",
+            "credit",
+            "desire",
+            "endorsement",
+            "esteem",
+            "faith",
+            "favor",
+            "happiness",
+            "honor",
+            "like",
+            "love",
+            "pleasure",
+            "regard",
+            "respect",
+            "satisfaction",
+            "trust"
+        ]
+    }
+]

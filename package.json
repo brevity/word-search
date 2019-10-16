@@ -1,0 +1,49 @@
+{
+  "name": "wordfind",
+  "version": "1.0.0",
+  "description": "A port of Bill Scheidel's wordfind for node and npm",
+  "main": "wordfind.js",
+  "bin": {
+    "wordfind": "bin/run.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "sh scripts/build.sh",
+    "watch": "nodemon --quiet",
+    "test": "tape test/**/*.js | tap-notify | tap-diff",
+    "t-watch": "nodemon --quiet -x 'npm run test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brevity/wordfind.git"
+  },
+  "keywords": [
+    "word",
+    "search",
+    "breeder",
+    "game",
+    "kids"
+  ],
+  "author": "bill@bunkat.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brevity/wordfind/issues"
+  },
+  "homepage": "https://github.com/brevity/wordfind#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "nodemon": "^1.19.3",
+    "sinon": "^7.5.0",
+    "tap-diff": "^0.1.1",
+    "tap-notify": "^1.0.0",
+    "tape": "^4.11.0",
+    "tape-promise": "^4.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "js-yaml": "^3.8.2",
+    "random-word": "^2.0.0",
+    "thesaurus-com": "^1.2.3"
+  }
+}

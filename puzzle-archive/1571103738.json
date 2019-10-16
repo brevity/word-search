@@ -1,0 +1,390 @@
+[
+    {
+        "word": "starving",
+        "synonyms": [
+            "craving",
+            "dehydrated",
+            "dog-hungry",
+            "drawn",
+            "dying",
+            "emaciated",
+            "empty",
+            "faint",
+            "famished",
+            "flying light",
+            "haggard",
+            "have munchies",
+            "hungering",
+            "hungry",
+            "malnourished",
+            "peaked",
+            "peaky",
+            "peckish",
+            "pinched",
+            "rattleboned",
+            "ravenous",
+            "skinny",
+            "starved",
+            "thin",
+            "underfed",
+            "undernourished",
+            "weakened"
+        ],
+        "antonyms": [
+            "fat",
+            "full",
+            "healthy",
+            "heavy",
+            "sated",
+            "satiated",
+            "satisfied",
+            "strong",
+            "thick"
+        ]
+    },
+    {
+        "word": "pimp",
+        "synonyms": [
+            "flesh-peddler",
+            "hustler",
+            "mack",
+            "pander",
+            "panderer",
+            "whoremonger"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "befit",
+        "synonyms": [
+            "agree",
+            "become",
+            "behoove",
+            "benefit",
+            "beseem",
+            "correspond",
+            "do",
+            "go",
+            "go with",
+            "match",
+            "serve",
+            "suit"
+        ],
+        "antonyms": [
+            "differ",
+            "disagree",
+            "refuse"
+        ]
+    },
+    {
+        "word": "establisher",
+        "synonyms": [
+            "architect",
+            "author",
+            "beginner",
+            "benefactor",
+            "builder",
+            "constructor",
+            "creator",
+            "designer",
+            "forebearer",
+            "framer",
+            "generator",
+            "initiator",
+            "institutor",
+            "inventor",
+            "maker",
+            "organizer",
+            "originator",
+            "patron",
+            "planner",
+            "prime mover"
+        ],
+        "antonyms": [
+            "opponent"
+        ]
+    },
+    {
+        "word": "allegories",
+        "synonyms": [
+            "apologue",
+            "emblem",
+            "fable",
+            "figuration",
+            "moral",
+            "myth",
+            "parable",
+            "story",
+            "symbol",
+            "symbolism",
+            "symbolization",
+            "tale",
+            "typification"
+        ],
+        "antonyms": [
+            "non-fiction",
+            "truth"
+        ]
+    },
+    {
+        "word": "preferments",
+        "synonyms": [
+            "advance",
+            "advancement",
+            "amelioration",
+            "amendment",
+            "augmentation",
+            "betterment",
+            "change",
+            "civilization",
+            "correction",
+            "cultivation",
+            "development",
+            "elevation",
+            "enhancement",
+            "enrichment",
+            "furtherance",
+            "gain",
+            "growth",
+            "increase",
+            "meliorism",
+            "progress",
+            "progression",
+            "promotion",
+            "rally",
+            "reclamation",
+            "recovery",
+            "rectification",
+            "reformation",
+            "regeneration",
+            "renovation",
+            "revision",
+            "rise",
+            "upbeat",
+            "upgrade",
+            "upswing"
+        ],
+        "antonyms": [
+            "damage",
+            "decline",
+            "decrease",
+            "demotion",
+            "deterioration",
+            "diminishing",
+            "diminishment",
+            "failure",
+            "halt",
+            "harm",
+            "hurt",
+            "injury",
+            "loss",
+            "retreat",
+            "retrogression",
+            "stagnation",
+            "stop",
+            "stoppage",
+            "weakening",
+            "worsening"
+        ]
+    },
+    {
+        "word": "coordinator",
+        "synonyms": [
+            "administrator",
+            "adviser",
+            "organizer",
+            "supervisor"
+        ],
+        "antonyms": [
+            "employee",
+            "worker"
+        ]
+    },
+    {
+        "word": "issue",
+        "synonyms": [
+            "affair",
+            "argument",
+            "concern",
+            "contention",
+            "controversy",
+            "matter",
+            "matter of contention",
+            "point",
+            "point of departure",
+            "problem",
+            "puzzle",
+            "question",
+            "subject",
+            "topic"
+        ],
+        "antonyms": [
+            "agreement",
+            "cause",
+            "harmony",
+            "origin",
+            "parent",
+            "source"
+        ]
+    },
+    {
+        "word": "breather",
+        "synonyms": [
+            "break",
+            "lull",
+            "pause",
+            "recess",
+            "respite"
+        ],
+        "antonyms": [
+            "continuation"
+        ]
+    },
+    {
+        "word": "counted",
+        "synonyms": [
+            "add up",
+            "calculate",
+            "cast",
+            "cast up",
+            "cipher",
+            "compute",
+            "enumerate",
+            "estimate",
+            "figure",
+            "foot",
+            "keep tab",
+            "number",
+            "numerate",
+            "reckon",
+            "run down",
+            "score",
+            "sum",
+            "take account of",
+            "tally",
+            "tell",
+            "tick off",
+            "tot up",
+            "total"
+        ],
+        "antonyms": [
+            "disregard",
+            "exclude",
+            "guess",
+            "ignore",
+            "subtract"
+        ]
+    },
+    {
+        "word": "sinewy",
+        "synonyms": [
+            "athletic",
+            "brawny",
+            "fibrous",
+            "firm",
+            "hard",
+            "leathery",
+            "muscular",
+            "powerful",
+            "strong",
+            "sturdy",
+            "vigorous"
+        ],
+        "antonyms": [
+            "skinny",
+            "weak"
+        ]
+    },
+    {
+        "word": "injects",
+        "synonyms": [
+            "add",
+            "drag in",
+            "force into",
+            "imbue",
+            "implant",
+            "impregnate",
+            "include",
+            "infuse",
+            "insert",
+            "instill",
+            "interjaculate",
+            "interject",
+            "place into",
+            "squeeze in",
+            "stick in",
+            "throw in"
+        ],
+        "antonyms": [
+            "remove",
+            "take out",
+            "withdraw"
+        ]
+    },
+    {
+        "word": "illusory",
+        "synonyms": [
+            "Barmecidal",
+            "apparent",
+            "blue sky",
+            "chimerical",
+            "deceitful",
+            "delusive",
+            "delusory",
+            "fallacious",
+            "false",
+            "fanciful",
+            "fantastic",
+            "fictional",
+            "fictitious",
+            "fictive",
+            "float",
+            "hallucinatory",
+            "ideal",
+            "illusive",
+            "imaginary",
+            "misleading",
+            "mistaken",
+            "ostensible",
+            "pipe dream",
+            "seeming",
+            "semblant",
+            "sham",
+            "suppositious",
+            "supposititious",
+            "unreal",
+            "untrue",
+            "visionary",
+            "whimsical"
+        ],
+        "antonyms": [
+            "genuine",
+            "honest",
+            "real",
+            "truthful"
+        ]
+    },
+    {
+        "word": "thunderstroke",
+        "synonyms": [
+            "arrow",
+            "dart",
+            "fulmination",
+            "missile",
+            "shaft",
+            "thunderbolt"
+        ],
+        "antonyms": [
+            "key"
+        ]
+    },
+    {
+        "word": "conceptualizing",
+        "synonyms": [
+            "develop a thought",
+            "gestate",
+            "visualize mentally"
+        ],
+        "antonyms": []
+    }
+]
