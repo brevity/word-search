@@ -1,13 +1,14 @@
 #!/usr/bin/env node
 
-const { resolve }             = require('path'),
-      fs                      = require('fs'),
-      yaml                    = require('js-yaml'),
-      { wordfind: wf }        = require('./lib/bunkat-wordfind'),
-      { getList } = require('./lib/random-word-list'),
-      inquirer                = require('inquirer');
+const { resolve }      = require('path'),
+      fs               = require('fs'),
+      yaml             = require('js-yaml'),
+      { wordfind: wf } = require('./lib/bunkat-wordfind'),
+      { getList }      = require('./lib/random-word-list'),
+      inquirer         = require('inquirer');
 
 main()
+
 function main(){
   inquirer
     .prompt([
@@ -33,6 +34,7 @@ function main(){
       }
     });
 }
+
 function chooseFile(){
   const dirlist = fs.readdirSync(resolve(__dirname, 'puzzle-archive'))
     .filter(filename => /\.json$/.test(filename))
@@ -70,7 +72,6 @@ function filePuzzle(filename){
 
     wf.print(filePuzzle)
     words.map(word => console.log(word))
-    //console.log(words)
 
   } catch (e) {
     console.error(e);
@@ -79,9 +80,6 @@ function filePuzzle(filename){
 
 }
 
-
 function dir(o){
   console.dir(o, { depth: 5 })
 }
-
-// var solution = wf.solve(puzzle, werds); console.log(solution)
